@@ -1,0 +1,52 @@
+<!-- Formulari de registre a un joc web, que continga; dades personals, -->
+
+<!DOCTYPE html>
+<html> 
+   <h1>Encuesta de satisfacció</h1>
+   <h3>Volem saber la teua opinió sobre nosaltres per a seguir millorant; </h3>
+   <!-- Entrada de Nom -->
+   <form action="#" method="post" name="encuesta de satisfacció">
+      <label for="nom">Nom:</label>
+      <input type="text" id="nom" name="nom" min="1" max="50" required>
+      <br><br>
+
+      <label for="nom">Apellido 1 :</label>
+      <input type="text" id="nom" name="apellido1" min="1" max="50" required>
+      <br><br>
+
+      <label for="nom">Apellido 2 :</label>
+      <input type="text" id="nom" name="apellido2" min="1" max="50" required>
+      <br><br>
+      <!-- Entrada de data de naiximent -->
+      <label for="data">Selecciona una data:</label>
+      <input type="date" id="data" name="data" required>
+      <br><br>      
+
+      <!-- Entrada de email -->
+      <label for="nom">Email :</label>
+      <input type="text" id="nom" name="nom"> min="1" max="50"
+      <br><br>
+      <!-- Entrada de teléfono -->
+      <label for="nom">Teléfono :</label>
+      <input type="text" id="nom" name="nom">
+      <br><br>
+
+       <!-- Entrada de range de satisfacció -->
+        <p>De les seguents punts ¿Quin es el que més t'agrada?</p>
+      <input type="radio" id="envio" name="fruita" value="envio"> <label for="envio">Rapidesa d'envio.</label><br>
+      <input type="radio" id="calitat" name="fruita" value="calitat"><label for="calitat">La calitat dels nostres productes.</label><br>
+      <input type="radio" id="servici client" name="fruita" value="servici client"><label for="servici client">La facilitat de atenció al client.</label>
+       <br><br>
+
+     
+      <label for="range">En general ¿Com de satisfet estás amb nosaltres? (entre 0 i 10):</label>
+      <input type="range" id="range" name="range" min="0" max="10">
+      <br><br>
+      
+      ¿Qué podriem millorar?
+      <br>
+       <textarea name="message" rows="10" cols="30" >
+</textarea>
+  <br><br>
+  </form>
+</html>

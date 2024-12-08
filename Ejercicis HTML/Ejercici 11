@@ -1,0 +1,39 @@
+<!--Exercici 11. El teu currículum. Fent ús dels diferents estils de llista, crea 
+el teu currículum vitae. Afig també una imatge amb la teua foto, amb les
+ dimensions adequades.-->
+
+<!DOCTYPE html>
+<html> 
+    <h1>Curriculum Vitae</h1>
+        <h2>Ana Cristina Barroso Agudo</h2>
+        <img src="FotoCarné.jpeg" width="20%" alt="Foto Carné"/>
+            <h4>CONTACTO</h4>
+                    <ul>
+                        <li>Tlf: 644 77 20 19</li>
+                        <li>Correo: anacbagudo@gmail.com</li>
+                        <li>Ubicación: Tavernes de la Valldigna (Valencia)</li>
+                    </ul>
+                <h4>FORMACIÓN</h4>
+                    <p>(2024-Actualmente) FP GP · Desarrollo de aplicaciones multiplatafoma (DAM)</p>
+                    <p>(2021-2023) FP GP · Química y Salud Ambiental · IES Fray Luis de León</p>
+                    <p>(2017-2019) Bachillerato · IES Mateo Hernández</p>
+                <h4>EXPERIENCIA</h4>
+                    <P>(2024) AMBIENTALYS</P>
+                    <p>(2023) VERCHILAB</p>
+                    <p>(2022-2023) CASA MARINA</p>
+                    <p>(2019-2022) QUID DIVINUM</p>
+                    <p>(2018-2019) PONEY PISADOR</p>
+                <h4>IDIOMAS</h4>
+                    <ul>
+                        <li>Español</li>
+                        <li>Inglés (B1)</li>
+                        <li>Valenciano</li>
+                    </ul>
+                <h4>HERRAMIENTAS</h4>
+                    <ul>
+                        <li>Formación en prevención laboral</li>
+                        <li>Permiso B de conducir y vehículo propio</li>
+                        <li>Buen manejo de Microsoft Word y Excel</li>
+                    </ul>
+                
+</html>

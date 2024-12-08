@@ -1,0 +1,13 @@
+<!--Enllaços interns i externs. Crea un enllaç a la pàgina 
+https://www.google.com que diga "Visita Google". Crea un altre enllaç 
+dins de la mateixa pàgina que dirigisca a una secció amb id "seccio2",
+i escriu "Ves a la Secció 2". Després, afegeix una capçalera amb id 
+"seccio2" que diga "Secció 2".-->
+
+
+<!DOCTYPE html>
+<html> 
+   <h1 id="secci2">Secció 2</h1>
+   <a href="https://www.google.com">Visita google</a>
+   <a href="#seccio2"> Ves a la secció 2</a>
+</html>

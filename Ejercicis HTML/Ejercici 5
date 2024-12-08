@@ -1,0 +1,9 @@
+<!--Exercici 5: Imatges. Afegeix una imatge anomenada gat.jpg al document HTML
+ i inclou un text alternatiu que diga "Una imatge d'un gat."-->
+
+ <!DOCTYPE html>
+ <htlm>
+    <h1>Foto de gatet</h1>
+
+    <img src="gat.jpg" alt="Una image d'un gat">
+ </htlm> 

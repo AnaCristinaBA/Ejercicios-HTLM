@@ -1,0 +1,74 @@
+<!-- añadir CSS al CV-->
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title>CV Ana Cristina</title> 
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="StylsCV.css">
+    </head>
+<header>
+        <h1>Curriculum Vitae</h1>
+        <h2>Ana Cristina Barroso Agudo</h2>
+        <div class="Foto">
+            <img src="FotoCarné.jpeg" width="30%" alt="Foto Carné"/>
+        
+        </div>
+        <nav>
+        <ul>
+          <li><a href="#home">CONTACTO</a></li>
+          <li><a href="#about">FORMACIÓN</a></li>
+          <li><a href="#about">EXPERIENCIA</a></li>
+          <li><a href="#about">IDIOMAS</a></li>
+          <li><a href="#about">HERRAMIENTAS</a></li>
+        </ul>
+        </nav>
+</header>
+
+<body>
+    <article>
+        <section>
+                <h4>CONTACTO</h4>
+                    <ul class="Datos">
+                        <li>Tlf: 644 77 20 19</li>
+                        <li>Correo: anacbagudo@gmail.com</li>
+                        <li>Ubicación: Tavernes de la Valldigna (Valencia)</li>
+                    </ul>
+        </section>
+        <section>
+                <h4>FORMACIÓN</h4>
+                    <p>(2024-Actualmente) FP GP · Desarrollo de aplicaciones multiplatafoma (DAM)</p>
+                    <p>(2021-2023) FP GP · Química y Salud Ambiental · IES Fray Luis de León</p>
+                    <p>(2017-2019) Bachillerato · IES Mateo Hernández</p>
+        </section>
+        <section>
+                <h4>EXPERIENCIA</h4>
+                    <P>(2024) AMBIENTALYS</P>
+                    <p>(2023) VERCHILAB</p>
+                    <p>(2022-2023) CASA MARINA</p>
+                    <p>(2019-2022) QUID DIVINUM</p>
+                    <p>(2018-2019) PONEY PISADOR</p>
+        </section>
+        <section>
+                <h4>IDIOMAS</h4>
+                    <ul class="Datos">
+                        <li>Español</li>
+                        <li>Inglés (B1)</li>
+                        <li>Valenciano</li>
+                    </ul>
+        </section>
+        <section>
+                <h4>HERRAMIENTAS</h4>
+                    <ul class="Datos">
+                        <li>Formación en prevención laboral</li>
+                        <li>Permiso B de conducir y vehículo propio</li>
+                        <li>Buen manejo de Microsoft Word y Excel</li>
+                    </ul>
+        </section>
+    </article>
+</body>
+
+<footer>
+    <p> 2024, Ana Cristina Barroso Agudo.</p>
+</footer>
+                
+</html>

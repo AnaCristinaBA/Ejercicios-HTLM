@@ -1,0 +1,11 @@
+<!--El primer paràgraf ha de dir: "Aquest és el primer paràgraf." El segon 
+paràgraf ha de dir: "Aquest és el segon paràgraf." Afegeix un salt de 
+línia dins del segon paràgraf, entre les frases "Aquest és el segon 
+paràgraf." i "Aquest paràgraf conté un salt de línia."-->
+<!DOCTYPE html>
+<html> 
+  
+    <p>Aquest és el primer paràgraf.</p>
+    <p>Aquest és el segon paràgraf.</br>Aquest paràgraf conté un salt de línia.</p>
+
+</html>

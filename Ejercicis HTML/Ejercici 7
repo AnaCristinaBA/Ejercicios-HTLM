@@ -1,0 +1,7 @@
+<!--Exercici 7: Text en negreta i cursiva. Crea un paràgraf que diga: "Aquest és un text important 
+en negreta i aquest és un text emfatitzat en cursiva."-->
+
+<!DOCTYPE htlm>
+<htmL>
+    <h1>Text en negreta i cursiva</h1>
+    <p><strong>Aquest és un text important en negreta</strong> <i>i aquest és un text emfatitzat en cursiva.</i></p>

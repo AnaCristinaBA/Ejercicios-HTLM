@@ -1,0 +1,11 @@
+<!--Exercici 6: Atributs d'enllaç. Crea un enllaç que diga "Obre Google en 
+una nova pestanya" que s'obriga en una pestanya nova quan es faça clic. 
+A més, crea un enllaç de correu electrònic que diga "Envia'm un correu" 
+a l'adreça exemple@gmail.com.-->
+
+ <!DOCTYPE html>
+ <htlm>
+    <h1>Atributs d'enllaç</h1>
+    <a href="https://www.google.com">Obre google</a> <a target="_blank">en una nova pestanya</a>
+    <a href="mailto:exemple@gmail.com">Envia'm un coreu</a>
+ </htlm> 

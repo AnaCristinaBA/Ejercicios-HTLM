@@ -1,0 +1,4 @@
+<!-- Exercici 10: Entitats HTML. Escriu un paràgraf que continga una frase utilitzant els 
+caràcters <, >, & i cometes dobles", utilitzant les entitats HTML corresponents. -->
+
+<p> El carácter &lt; vol dir menor que i &gt; major que. &quot;Aixó es un text amb cometes dobles&quot;</p>

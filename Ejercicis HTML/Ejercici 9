@@ -1,0 +1,5 @@
+<!-- Exercici 9: Ressaltat de text. Crea un paràgraf que continga la frase 
+"El sol brilla intensament avui" i ressalta la paraula "intensament" utilitzant 
+l'etiqueta <mark>.-->
+
+<p>El sol brilla <mark>intensament</mark> avui</p>

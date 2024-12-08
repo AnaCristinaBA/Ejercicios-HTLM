@@ -1,0 +1,13 @@
+<!--Exercici 2: Capçaleres. Crea un document HTML amb una capçalera <h1> 
+qu ediga "Títol Principal", una capçalera <h2> que diga "Secció 1" i 
+una capçalera <h3> que diga "Subsecció 1.1". Afegeix després un paràgraf 
+que diga "Contingut de la secció."-->
+<!DOCTYPE html>
+<html> 
+   <h1>Titol Principal</h1>
+   <h2>Secció 1</h2>
+   <h3>Subsecció 1.1</h3>
+   
+   <p>Contingut de la secció</p>
+
+</html>
